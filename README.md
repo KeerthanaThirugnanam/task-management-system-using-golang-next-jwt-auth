@@ -1,7 +1,8 @@
 **AI-Powered Task Management System**
 
-DEMO video link : https://www.loom.com/share/d96dfa8651dc4a608447f4d283704373?sid=e585d7b3-cba6-4fd0-b17d-1255cf9bdd75
-Overview
+**DEMO video link :** https://www.loom.com/share/d96dfa8651dc4a608447f4d283704373?sid=e585d7b3-cba6-4fd0-b17d-1255cf9bdd75
+
+**Overview**
 This is a real-time Task Management System built using Golang (Gin) for the backend and Next.js (TypeScript + Tailwind CSS) for the frontend. The system provides:
 - User authentication (JWT-based)
 - Task creation, assignment, and tracking
@@ -10,7 +11,7 @@ This is a real-time Task Management System built using Golang (Gin) for the back
 - MongoDB for data storage
 - Cloud deployment on Vercel & Fly.io
 
-Tech Stack:
+**Tech Stack:**
         Backend (Golang)
         Golang (Gin Framework)
         JWT Authentication
@@ -19,6 +20,7 @@ Tech Stack:
         OpenAI/Gemini API (for AI-powered task suggestions)
         Deployment: render
         deployment link: https://task-management-system-using-golang-next.onrender.com
+        
 Frontend (Next.js)
         Next.js (App Router)
         TypeScript
