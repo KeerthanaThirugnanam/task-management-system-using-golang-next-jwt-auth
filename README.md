@@ -21,7 +21,7 @@ This is a real-time Task Management System built using Golang (Gin) for the back
         Deployment: render
         deployment link: https://task-management-system-using-golang-next.onrender.com
         
-Frontend (Next.js)
+**Frontend (Next.js)**
         Next.js (App Router)
         TypeScript
         Tailwind CSS
